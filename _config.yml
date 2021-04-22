@@ -47,7 +47,7 @@ jekyll_compose:
     modified: null
     tags: []
     description: null
-number_of_posts: 3
+number_of_posts: 5
 sass:
   style: compressed
 include:
