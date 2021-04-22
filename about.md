@@ -18,3 +18,4 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 
 *   {{ site@mail.com }}
 *   github.com/{{ github_username }}
+*   
