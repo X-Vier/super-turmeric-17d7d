@@ -9,7 +9,7 @@
   external: false
 - title: Photographic works
   url: /works/
-  external: false
+  external: true
   type: menu_item
 - title: lorem-ipsum
   url: lorem-ipsum
