@@ -8,7 +8,7 @@ excerpt: >-
   on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+He's a student from NCU, living in Hangzhou. the blog for documentation about his photograph 🎒 journey, running on jekyll, He likes beautiful things, so he wants to share them with everyone.
 
 If you have a question about him or else, just send a letter to him.
 
