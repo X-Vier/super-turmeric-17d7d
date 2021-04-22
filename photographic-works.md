@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: photographic works
 permalink: photographic-works
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
