@@ -3,7 +3,7 @@
   external: false
 - title: photographic works
   url: /works/
-  external: true
+  external: false
   type: menu_item
 - title: archive
   url: /archive/
