@@ -16,5 +16,5 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 
 **may u needs ✨**
 
-*   {{ user@.com }}
+*   {{ site@.com }}
 *   github.com/{{ github_ }}
