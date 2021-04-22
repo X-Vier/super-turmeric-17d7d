@@ -8,7 +8,7 @@ excerpt: >-
   on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
-He's a student from NCU, living in Hangzhou. the blog for documentation about his photograph 🎒 journey, running on jekyll, He likes beautiful things, so he wants to share them with everyone.
+He's a student from NCU, living in Hangzhou. the blog for documentation about his photograph 🎒 journey, running on jekyll. He likes beautiful things, so he wants to share them with everyone.
 
 If you have a question about him or else, just send a letter to him.
 
