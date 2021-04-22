@@ -17,4 +17,4 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 **may u needs ✨**
 
 *   {{ x@vier.cc }}
-*   github.com/{{ github_X-Vier }}
+*   github.com/{{ github_username }}
