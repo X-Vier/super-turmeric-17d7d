@@ -1,6 +1,6 @@
 ---
 title: photographic works
-permalink: works
+permalink: works/
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
